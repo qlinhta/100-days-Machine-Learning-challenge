@@ -1,5 +1,7 @@
 ### 100 days of Machine Learning
 
-#### Quyen Linh TA :
+#### Quyen Linh TA 🧑‍💻
+
+#### University Paris Dauphine
 
 Documentation : @coming soon
